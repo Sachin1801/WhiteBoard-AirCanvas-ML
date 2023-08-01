@@ -13,3 +13,5 @@ The algorithm for the Air Canvas project is as follows:
 5. Specifically, extract the coordinates of the index finger and store them in an array for successive frames. This array will be used to track the drawing points on the canvas.
 6. Finally, draw the points stored in the array onto the video frames and the canvas, creating the illusion of drawing in the air.
 Requirements for this project include Python 3, numpy, OpenCV, and Mediapipe libraries installed on your system.
+
+<img width="1792" alt="Screenshot 2023-08-01 at 11 59 51 PM" src="https://github.com/Sachin1801/WhiteBoard-AirCanvas-ML/assets/87144268/5245ab59-ff5b-4d46-a5ce-4ec6a0474ef7">
